@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 19th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Michael Meyers
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment uses API from an online movie database to push information to my Seminole Movie web application using Ajax methods.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to build an application using an API
+2. Parse JSON data from an HTTP response message
+3. Use Ajax methods to send and recieve HTTP requests and responses
