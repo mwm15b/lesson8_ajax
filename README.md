@@ -13,8 +13,7 @@ Michael Meyers
 This assignment uses API from an online movie database to push information to my Seminole Movie web application using Ajax methods.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mwm15b.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. Learned how to build an application using an API
